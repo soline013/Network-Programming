@@ -13,23 +13,23 @@
 
 [네트워크 계층 구조](#g)
 
-[OSI 7계층 모델](#h)
+[OSI 7계층 모델](##h)
 
-[OSI 7계층 vs. TCP/IP 4계층](##i)
+[OSI 7계층 vs. TCP/IP 4계층](#i)
 
-[네트워크 계층 구조: 물리 계층(Physical Layer)](##j)
+[네트워크 계층 구조: 물리 계층(Physical Layer)](#j)
 
-[네트워크 계층 구조: 데이터 링크 계층(Data Link Layer)](##k)
+[네트워크 계층 구조: 데이터 링크 계층(Data Link Layer)](#k)
 
-[데이터 링크 계층 프로토콜: 이더넷](###l)
+[데이터 링크 계층 프로토콜: 이더넷](#l)
 
-[CSMA/CD(Carrier Sense Mutiple Access/Collision Detection)](###m)
+[CSMA/CD(Carrier Sense Mutiple Access/Collision Detection)](#m)
 
-[네트워크 계층 구조: 네트워크 계층](##n)
+[네트워크 계층 구조: 네트워크 계층](#n)
 
-[네트워크 계층 프로토콜](###o)
+[네트워크 계층 프로토콜](#o)
 
-[네트워크 계층 구조: 전송 계층](##p)
+[네트워크 계층 구조: 전송 계층](#p)
 
 ---
 

@@ -159,7 +159,7 @@
 1. 1980년대 초 ISO(International Organization for Standardization)는 여러 시스템에 대해 상호연동이 가능한 표준 네트워크 모델의 필요성 인식.
 2. 1984년 OSI(Open System Interconnection) 네트워크 모델 발표.
 
-## <div id="h">OSI 7계층 모델</div>
+## <div id="#h">OSI 7계층 모델</div>
 
 ![스크린샷 2021-09-15 19.10.28.png](Overview%20093236203ee040f483c70227a420727f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-09-15_19.10.28.png)
 

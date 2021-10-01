@@ -88,7 +88,7 @@ Process: program running within a host
 
 ## Transport service requirements: common apps
 
-![스크린샷 2021-10-01 20.16.37.png](Application%20Layer%20cc45bf5a161e407b8dbcb963401fce2c/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2021-10-01_20.16.37.png)
+![Application Layer](https://user-images.githubusercontent.com/66259854/135611948-e34cdb1e-1809-4c0e-8f5f-19ba7be5dd5b.png)
 
 ## Internet transport protocols services
 
